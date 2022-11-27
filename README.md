@@ -92,7 +92,7 @@ The following sentence types can be parsed by this library:
 - `ZDA`
 - `MDA`
 - `ROT`
-- `XDR` : AirMAR(A), (B)
+- `XDR` : AirMAR Message (A), (B)
 
 The following sentence types can be encoded by this library:
 
