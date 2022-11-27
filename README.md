@@ -11,8 +11,8 @@ acuracy.  The official standard can be found
 described in clear terms [here](http://catb.org/gpsd/NMEA.html).
 
 ## build
-npm install typescript
-npm run build
+- npm install typescript
+- npm run build
 
 ## Example
 
