@@ -90,9 +90,9 @@ The following sentence types can be parsed by this library:
 - `VHW`
 - `VTG`
 - `ZDA`
-- 'MDA'
-- 'ROT'
-- 'XDR' : AirMAR(A), (B)
+- `MDA`
+- `ROT`
+- `XDR` : AirMAR(A), (B)
 
 The following sentence types can be encoded by this library:
 
