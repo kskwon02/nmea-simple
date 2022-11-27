@@ -10,6 +10,10 @@ acuracy.  The official standard can be found
 [here](http://www.nmea.org/content/nmea_standards/nmea_0183_v_410.asp) and is
 described in clear terms [here](http://catb.org/gpsd/NMEA.html).
 
+## build
+npm install typescript
+npm run build
+
 ## Example
 
 Typically, you will get NMEA sentences via the serial port from a GPS module.
@@ -86,6 +90,9 @@ The following sentence types can be parsed by this library:
 - `VHW`
 - `VTG`
 - `ZDA`
+- 'MDA'
+- 'ROT'
+- 'XDR' : AirMAR(A), (B)
 
 The following sentence types can be encoded by this library:
 
